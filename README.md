@@ -6,9 +6,9 @@
 ## University of Washington (UW)
 - B.S. Mechanical Engineering, Graduation: June 2020 
 
-Coursework 
+  Coursework 
 
-Nanotechnology, Mechanics of Material, Heat Transfer, Thermodynamics, System Dynamics, Applied Mathematics, Circuit & Systems, Fluid Mechanics, Manufacturing Processes
+  Nanotechnology, Mechanics of Material, Heat Transfer, Thermodynamics, System Dynamics, Applied Mathematics, Circuit & Systems, Fluid Mechanics, Manufacturing Processes
 
 
 # Work Experience
