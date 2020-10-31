@@ -23,6 +23,26 @@ UI design: Designed Human Machine Interface (HMI) screens that monitored real-ti
 ## KPFF Consulting, Special Projects Mechanical Engineering Intern (06/18 - 09/18) 
 Design: Used SolidWorks & AutoCAD to create conceptual designs of ferry gates & hydraulic systems.
 - Converted 2D blueprints into 3D models for Boeing & WSDOT projects.
+
 Analysis: Utilized Solidworks FEA to identify all risks & mitigations of modifying structural members.
 - Verified FEA via hand calculations for Boeing hoist shaft & Fisher Island transfer bridge girders.
 
+# Leadership & Special Projects  
+## UW Hyperloop, Director of Integration                    				                    09/16 - 06/20
+Ranked 1st in the United States & 4th in the world at SpaceX Hyperloop Competition III 
+- 4 years of full-cycle prototyping: Ground System Engineer → Suspension Engineer → Propulsion Engineer → Director of Integration 
+
+Director of Integration (08/19-06/20): Led a team of 40+ undergraduate students to design & manufacture a hyperloop pod prototype. 
+- Allocated functional requirements, maintained interface control, & guided software/hardware integration for 7 cross-functional subteams. 
+- Responsible for development & documentation of hardware testing, computational analysis verification, & system safety/optimization. 
+- Successfully implemented new PM platform enabling leads to improve purchasing logistics & action item prioritization. 
+
+Propulsion Integration & Nozzle Engineer (06/17-8/19): Owned the entire cold gas thruster (CGT) CAD model, pneumatic schematic, & BOM. 
+- Improved all subsystems pneumatics, resulting in over $3k savings, 20%+ weight reduction, & 30%+ increase in vehicle acceleration. 
+- Designed & manufactured two aluminum conical rocket nozzles. Verified FEA through Instron tensile tests & ensured a FOS of 3+. 
+- Successfully performed hydrostatic pressure & static fire tests on the CGT to evaluate system safety & performance expectations.
+
+# UW Engineers Without Borders, Mechanical & Manufacturing Lead Engineer              	                                   10/17 - 10/18
+Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s first solar-powered cell phone charging station.
+- Presented prototype at UW’s Engineering Discovery Day & received UW athletic director’s approval on creating 6+ for the husky stadium.
+- Developed & maintained project schedule, led meetings/build sessions, & managed project funds.
