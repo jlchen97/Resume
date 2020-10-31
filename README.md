@@ -6,6 +6,7 @@
 
 ```html
 # Education 
+```
 ## University of Washington (UW)
 - B.S. Mechanical Engineering, Graduation: June 2020 
 
