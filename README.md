@@ -4,6 +4,10 @@
 ## University of Washington (UW)
 - B.S. Mechanical Engineering, Graduation: June 2020 
 
+Coursework 
+| Nanotechnology | Mechanics of Material | Heat Transfer | Thermodynamics | System Dynamics | Applied Mathematics | Circuit & Systems | Fluid Mechanics | Manufacturing Processes
+
+
 # Work Experience
 ## Pure Watercraft, Mechanical Engineering Intern (06/20 - 10/20)
 Project management: Drove R&D of corrosion prevention to reduce coating costs & improve longevity of electrical outboard motor, battery pack, & charger. 
@@ -51,3 +55,7 @@ Propulsion Integration & Nozzle Engineer (06/17-8/19): Owned the entire cold gas
 Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s first solar-powered cell phone charging station.
 - Presented prototype at UW’s Engineering Discovery Day & received UW athletic director’s approval on creating 6+ for the husky stadium.
 - Developed & maintained project schedule, led meetings/build sessions, & managed project funds.
+
+# Skills 
+
+# Tools
