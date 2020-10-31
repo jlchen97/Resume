@@ -57,26 +57,25 @@ Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s 
 - Presented prototype at UW’s Engineering Discovery Day & received UW athletic director’s approval on creating 6+ for the husky stadium.
 - Developed & maintained project schedule, led meetings/build sessions, & managed project funds.
 
-# Skills 
-Mastery (years)
+# Skills  ## Mastery (years)
 
-Machine/Mechanical Design (5) 
-3D Printing (5) 
-Manufacturing (4)
-Machine Shop Fabrication (4)
-Injection Molding (2)
-Structural/Fluid Analysis (2)
-Sys. Integration & Optimization (2)
-Project Management (1) 
+- Machine/Mechanical Design (5) 
+- 3D Printing (5) 
+- Manufacturing (4)
+- Machine Shop Fabrication (4)
+- Injection Molding (2)
+- Structural/Fluid Analysis (2)
+- Sys. Integration & Optimization (2)
+- Project Management (1) 
 
 # Tools
 
-Solidworks // AutoCAD // Fusion 360
-MS Office
-Ignition by Inductive Automation 
-Inkscape 
-FluidDraw
-Confluence & JIRA
-Monday.com // TeamGantt 
-Lathe // Milling // Welding
-Cantonese (Understand) 
+- Solidworks // AutoCAD // Fusion 360
+- MS Office
+- Ignition by Inductive Automation 
+- Inkscape 
+- FluidDraw
+- Confluence & JIRA
+- Monday.com // TeamGantt 
+- Lathe // Milling // Welding
+- Cantonese (Understand) 
