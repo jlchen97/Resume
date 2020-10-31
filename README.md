@@ -1,5 +1,9 @@
 # Jian Chen
 
+# Education 
+## University of Washington (UW)
+## B.S. Mechanical Engineering, Graduation: June 2020 
+
 # Work Experience
 ## Pure Watercraft, Mechanical Engineering Intern (06/20 - 10/20)
 Project management: Drove R&D of corrosion prevention to reduce coating costs & improve longevity of electrical outboard motor, battery pack, & charger. 
@@ -27,8 +31,9 @@ Design: Used SolidWorks & AutoCAD to create conceptual designs of ferry gates & 
 Analysis: Utilized Solidworks FEA to identify all risks & mitigations of modifying structural members.
 - Verified FEA via hand calculations for Boeing hoist shaft & Fisher Island transfer bridge girders.
 
+
 # Leadership & Special Projects  
-## UW Hyperloop, Director of Integration                    				                    09/16 - 06/20
+## UW Hyperloop, Director of Integration (09/16 - 06/20)
 Ranked 1st in the United States & 4th in the world at SpaceX Hyperloop Competition III 
 - 4 years of full-cycle prototyping: Ground System Engineer → Suspension Engineer → Propulsion Engineer → Director of Integration 
 
@@ -42,7 +47,7 @@ Propulsion Integration & Nozzle Engineer (06/17-8/19): Owned the entire cold gas
 - Designed & manufactured two aluminum conical rocket nozzles. Verified FEA through Instron tensile tests & ensured a FOS of 3+. 
 - Successfully performed hydrostatic pressure & static fire tests on the CGT to evaluate system safety & performance expectations.
 
-# UW Engineers Without Borders, Mechanical & Manufacturing Lead Engineer              	                                   10/17 - 10/18
+## UW Engineers Without Borders, Mechanical & Manufacturing Lead Engineer (10/17 - 10/18) 
 Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s first solar-powered cell phone charging station.
 - Presented prototype at UW’s Engineering Discovery Day & received UW athletic director’s approval on creating 6+ for the husky stadium.
 - Developed & maintained project schedule, led meetings/build sessions, & managed project funds.
