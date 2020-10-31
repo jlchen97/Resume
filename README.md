@@ -1,6 +1,7 @@
 # Jian Chen
 
-```(253) 686-5734 | cjian1997@gmail.com | ln /jianlchen | www.jianlchen.com
+```html
+(253) 686-5734 | cjian1997@gmail.com | ln /jianlchen | www.jianlchen.com
 ```
 
 # Education 
