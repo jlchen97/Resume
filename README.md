@@ -2,7 +2,7 @@
 
 # Education 
 ## University of Washington (UW)
-## B.S. Mechanical Engineering, Graduation: June 2020 
+- B.S. Mechanical Engineering, Graduation: June 2020 
 
 # Work Experience
 ## Pure Watercraft, Mechanical Engineering Intern (06/20 - 10/20)
