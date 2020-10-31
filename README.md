@@ -6,10 +6,8 @@
 
 Coursework 
 
-| Nanotechnology | Mechanics of Material | Heat Transfer | 
-| --- | --- | --- |
-| Thermodynamics | System Dynamics | Applied Mathematics | 
-| Circuit & Systems | Fluid Mechanics | Manufacturing Processes |
+| Nanotechnology | Mechanics of Material | Heat Transfer | System Dynamics | 
+| Applied Mathematics | Circuit & Systems | Fluid Mechanics | Manufacturing Processes |
 
 
 # Work Experience
