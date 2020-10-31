@@ -1,5 +1,8 @@
 # Jian Chen
 
+```(253) 686-5734 | cjian1997@gmail.com | ln /jianlchen | www.jianlchen.com
+```
+
 # Education 
 ## University of Washington (UW)
 - B.S. Mechanical Engineering, Graduation: June 2020 
