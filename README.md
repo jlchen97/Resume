@@ -57,7 +57,8 @@ Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s 
 - Presented prototype at UW’s Engineering Discovery Day & received UW athletic director’s approval on creating 6+ for the husky stadium.
 - Developed & maintained project schedule, led meetings/build sessions, & managed project funds.
 
-# Skills  ## Mastery (years)
+# Skills  
+## Mastery (years)
 
 - Machine/Mechanical Design (5) 
 - 3D Printing (5) 
