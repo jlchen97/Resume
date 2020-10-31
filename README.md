@@ -1,12 +1,8 @@
 # Jian Chen
 
-```html
 (253) 686-5734 | cjian1997@gmail.com | ln /jianlchen | www.jianlchen.com
-```
 
-```html
 # Education 
-```
 ## University of Washington (UW)
 - B.S. Mechanical Engineering, Graduation: June 2020 
 
@@ -14,9 +10,8 @@ Coursework
 
 Nanotechnology, Mechanics of Material, Heat Transfer, Thermodynamics, System Dynamics, Applied Mathematics, Circuit & Systems, Fluid Mechanics, Manufacturing Processes
 
-```html
+
 # Work Experience
-```
 ## Pure Watercraft, Mechanical Engineering Intern (06/20 - 10/20)
 Project management: Drove R&D of corrosion prevention to reduce coating costs & improve longevity of electrical outboard motor, battery pack, & charger. 
 - Conducted outboard & battery pack coating failure analysis & presented mitigation proposals to senior executive management. Reduced initial outboard coating investment by $150k+ (62.3%).
@@ -43,9 +38,7 @@ Design: Used SolidWorks & AutoCAD to create conceptual designs of ferry gates & 
 Analysis: Utilized Solidworks FEA to identify all risks & mitigations of modifying structural members.
 - Verified FEA via hand calculations for Boeing hoist shaft & Fisher Island transfer bridge girders.
 
-```html
 # Leadership & Special Projects  
-```
 ## UW Hyperloop, Director of Integration (09/16 - 06/20)
 Ranked 1st in the United States & 4th in the world at SpaceX Hyperloop Competition III 
 - 4 years of full-cycle prototyping: Ground System Engineer → Suspension Engineer → Propulsion Engineer → Director of Integration 
@@ -65,9 +58,8 @@ Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s 
 - Presented prototype at UW’s Engineering Discovery Day & received UW athletic director’s approval on creating 6+ for the husky stadium.
 - Developed & maintained project schedule, led meetings/build sessions, & managed project funds.
 
-```html
+
 # Skills 
-```
 ## Mastery (years)
 
 - Machine/Mechanical Design (5) 
@@ -79,9 +71,7 @@ Design & Manufacturing: Led a team of 20+ undergraduates in creating the UW’s 
 - Sys. Integration & Optimization (2)
 - Project Management (1) 
 
-```html
 # Tools
-```
 
 - Solidworks // AutoCAD // Fusion 360
 - MS Office
